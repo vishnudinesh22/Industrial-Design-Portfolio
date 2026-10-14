@@ -1,0 +1,519 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "341:258",
+    "data-name": "RailServe 09 · RailServe — technology & future objectives",
+    "className": "design editorial d155"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:259",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:260",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:261",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:262",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:263",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:264",
+        "data-font-size": "22px",
+        "className": "d156"
+      },
+      "children": [
+        {
+          "textKey": "ServiceEquipmentErgonomics"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "attributes": {
+        "data-node-id": "341:265",
+        "data-font-size": "54px",
+        "className": "d157"
+      },
+      "children": [
+        {
+          "textKey": "RailserveNextDevelopmentSteps"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:266",
+        "data-font-size": "29px",
+        "className": "d106"
+      },
+      "children": [
+        {
+          "textKey": "NextStepsFitAccessAnd"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:267",
+        "data-name": "Frame",
+        "className": "layout-row d203"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:268",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:269",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "LoadPathFit"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:270",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Proposal"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "AdjustableHarnessAndHipSupport"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Test"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "MassReachComfortAndCoach"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:271",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:272",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "CleaningModules"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:273",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Proposal2"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "RemovableTraysAndReplaceableStraps"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer2"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Test2"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "RetentionSpillsCleaningAndAssembly"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:274",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:275",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "EvidenceToCollect"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:276",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Next"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ObserveVendorWorkflowsAndLoads"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer3"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Check"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FoodContactSuitabilityTestConditions"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:277",
+        "data-name": "Frame",
+        "data-font-size": "19px",
+        "className": "d169"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.cdc.gov/niosh/docs/2007-131/pdfs/2007-131.pdf",
+            "data-node-id": "341:278",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "R1NioshCalOsha2007"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://doi.org/10.1371/journal.pone.0142004",
+            "data-node-id": "341:279",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "R2WettenschwilerEtAl2015"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "/railserve/#section-3",
+        "data-node-id": "341:280",
+        "data-font-size": "21px",
+        "className": "d172"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d171"
+          },
+          "children": [
+            {
+              "textKey": "SupportingResearch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:281",
+        "data-name": "Project navigation",
+        "data-font-size": "20px",
+        "className": "layout-row d173"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/#projects",
+            "data-node-id": "341:282",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "AllThreeProjects"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/railserve/#section-1",
+            "data-node-id": "341:283",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "ExistingCaseStudy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

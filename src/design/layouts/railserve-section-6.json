@@ -1,0 +1,354 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "200:239",
+    "data-name": "RailServe 06 · RailServe / Proposed use sequence",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:20",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:21",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:22",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:23",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:24",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:25",
+        "data-name": "Editorial content",
+        "className": "content-container d92"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:26",
+            "data-font-size": "22px",
+            "className": "d93"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "356:27",
+            "data-font-size": "54px",
+            "className": "d94"
+          },
+          "children": [
+            {
+              "textKey": "RailserveProposedUseSequence"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:28",
+            "data-font-size": "29px",
+            "className": "d95"
+          },
+          "children": [
+            {
+              "textKey": "ProposedSequenceForAMock"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "356:29",
+            "data-name": "Frame",
+            "className": "layout-row d96"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:30",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:31",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "01FitInspect"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:32",
+                    "data-font-size": "29px",
+                    "className": "d153"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "InspectStrapsBucklesAndLatches"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "AdjustTheUnloadedCarrier"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:33",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:34",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "02LoadSecure"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:35",
+                    "data-font-size": "29px",
+                    "className": "d153"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "LoadRepresentativeItems"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "RecordTotalMass"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CheckRetentionAndBalance"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:36",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:37",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "03AccessServe"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:38",
+                    "data-font-size": "29px",
+                    "className": "d153"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CompareAccessWhileWornSupported"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "RecordReachTimeAndObstacles"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:39",
+            "data-font-size": "34px",
+            "className": "d191"
+          },
+          "children": [
+            {
+              "textKey": "04UnloadDetachAndClean"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "356:40",
+            "data-font-size": "29px",
+            "className": "d192"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d79"
+              },
+              "children": [
+                {
+                  "textKey": "DetachModulesCleanDryReassemble"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d80"
+              },
+              "children": [
+                {
+                  "textKey": "ValidateTheWorkflowWithThe"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

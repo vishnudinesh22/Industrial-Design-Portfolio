@@ -1,0 +1,240 @@
+[
+  {
+    "frameId": "56:168",
+    "section": "hero",
+    "page": "home",
+    "textCount": 3,
+    "imageCount": 14
+  },
+  {
+    "frameId": "56:169",
+    "section": "about",
+    "page": "home",
+    "textCount": 18,
+    "imageCount": 11
+  },
+  {
+    "frameId": "369:2",
+    "section": "experience",
+    "page": "home",
+    "textCount": 31,
+    "imageCount": 1
+  },
+  {
+    "frameId": "341:200",
+    "section": "projects",
+    "page": "home",
+    "textCount": 16,
+    "imageCount": 4
+  },
+  {
+    "frameId": "198:175",
+    "section": "contact",
+    "page": "home",
+    "textCount": 6,
+    "imageCount": 8
+  },
+  {
+    "frameId": "170:410",
+    "section": "section-1",
+    "page": "railserve",
+    "textCount": 12,
+    "imageCount": 2
+  },
+  {
+    "frameId": "64:12",
+    "section": "section-2",
+    "page": "railserve",
+    "textCount": 17,
+    "imageCount": 1
+  },
+  {
+    "frameId": "341:228",
+    "section": "section-3",
+    "page": "railserve",
+    "textCount": 16,
+    "imageCount": 2
+  },
+  {
+    "frameId": "195:65",
+    "section": "section-4",
+    "page": "railserve",
+    "textCount": 10,
+    "imageCount": 2
+  },
+  {
+    "frameId": "195:71",
+    "section": "section-5",
+    "page": "railserve",
+    "textCount": 11,
+    "imageCount": 2
+  },
+  {
+    "frameId": "200:239",
+    "section": "section-6",
+    "page": "railserve",
+    "textCount": 16,
+    "imageCount": 1
+  },
+  {
+    "frameId": "353:2",
+    "section": "section-7",
+    "page": "railserve",
+    "textCount": 26,
+    "imageCount": 1
+  },
+  {
+    "frameId": "353:35",
+    "section": "section-8",
+    "page": "railserve",
+    "textCount": 18,
+    "imageCount": 1
+  },
+  {
+    "frameId": "341:258",
+    "section": "section-9",
+    "page": "railserve",
+    "textCount": 26,
+    "imageCount": 1
+  },
+  {
+    "frameId": "204:2",
+    "section": "section-1",
+    "page": "silica-breez",
+    "textCount": 12,
+    "imageCount": 2
+  },
+  {
+    "frameId": "204:26",
+    "section": "section-2",
+    "page": "silica-breez",
+    "textCount": 17,
+    "imageCount": 1
+  },
+  {
+    "frameId": "341:284",
+    "section": "section-3",
+    "page": "silica-breez",
+    "textCount": 16,
+    "imageCount": 2
+  },
+  {
+    "frameId": "204:149",
+    "section": "section-4",
+    "page": "silica-breez",
+    "textCount": 11,
+    "imageCount": 6
+  },
+  {
+    "frameId": "213:345",
+    "section": "section-5",
+    "page": "silica-breez",
+    "textCount": 10,
+    "imageCount": 3
+  },
+  {
+    "frameId": "213:374",
+    "section": "section-6",
+    "page": "silica-breez",
+    "textCount": 25,
+    "imageCount": 1
+  },
+  {
+    "frameId": "353:57",
+    "section": "section-7",
+    "page": "silica-breez",
+    "textCount": 26,
+    "imageCount": 1
+  },
+  {
+    "frameId": "353:90",
+    "section": "section-8",
+    "page": "silica-breez",
+    "textCount": 22,
+    "imageCount": 1
+  },
+  {
+    "frameId": "341:314",
+    "section": "section-9",
+    "page": "silica-breez",
+    "textCount": 26,
+    "imageCount": 1
+  },
+  {
+    "frameId": "204:195",
+    "section": "section-1",
+    "page": "glitch-matrix",
+    "textCount": 12,
+    "imageCount": 2
+  },
+  {
+    "frameId": "217:522",
+    "section": "section-2",
+    "page": "glitch-matrix",
+    "textCount": 15,
+    "imageCount": 1
+  },
+  {
+    "frameId": "341:340",
+    "section": "section-3",
+    "page": "glitch-matrix",
+    "textCount": 17,
+    "imageCount": 2
+  },
+  {
+    "frameId": "217:628",
+    "section": "section-4",
+    "page": "glitch-matrix",
+    "textCount": 10,
+    "imageCount": 2
+  },
+  {
+    "frameId": "217:685",
+    "section": "section-5",
+    "page": "glitch-matrix",
+    "textCount": 8,
+    "imageCount": 5
+  },
+  {
+    "frameId": "227:62",
+    "section": "section-6",
+    "page": "glitch-matrix",
+    "textCount": 17,
+    "imageCount": 2
+  },
+  {
+    "frameId": "228:336",
+    "section": "section-7",
+    "page": "glitch-matrix",
+    "textCount": 37,
+    "imageCount": 6
+  },
+  {
+    "frameId": "217:700",
+    "section": "section-8",
+    "page": "glitch-matrix",
+    "textCount": 17,
+    "imageCount": 1
+  },
+  {
+    "frameId": "353:112",
+    "section": "section-9",
+    "page": "glitch-matrix",
+    "textCount": 26,
+    "imageCount": 1
+  },
+  {
+    "frameId": "353:145",
+    "section": "section-10",
+    "page": "glitch-matrix",
+    "textCount": 21,
+    "imageCount": 1
+  },
+  {
+    "frameId": "341:371",
+    "section": "section-11",
+    "page": "glitch-matrix",
+    "textCount": 27,
+    "imageCount": 1
+  }
+]

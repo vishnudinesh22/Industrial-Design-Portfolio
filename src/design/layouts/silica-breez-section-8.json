@@ -1,0 +1,431 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "353:90",
+    "data-name": "Silica Breez 08 · Silica Breez / Maintenance & repair",
+    "className": "design editorial d87"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:91",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:92",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:93",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:94",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:95",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:96",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "353:97",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "353:98",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "SilicaBreezMaintenanceRepair"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "353:99",
+            "data-font-size": "29px",
+            "className": "d106"
+          },
+          "children": [
+            {
+              "textKey": "ProposedCareAndServiceAccess"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:100",
+            "data-name": "Frame",
+            "className": "layout-row d199"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:101",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:102",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "WaterMediaAccess"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:103",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "RemovableReservoirAndDrain"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "AccessibleMediaCassette"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SeparateGrilleFromReplaceableMedia"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "ConfirmWhichPartsCanBe"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:104",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:105",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "CleaningBuildup"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:106",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "InspectTankPadsAndTubing"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "AddressMineralBuildupM1"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "DrainAndDryForStorage"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer2"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SetIntervalsThroughWaterQuality"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:107",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:108",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ServiceReplacement"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:109",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SeparateTechnicianAccessPanel"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "AccessibleFanPumpAndWiring"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CheckLeaksBlockageAndReassembly"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer3"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "KeepWetAccessTrialsUnpowered"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:110",
+            "data-name": "Frame",
+            "className": "d201"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.energy.gov/cmei/femp/best-management-practice-13-other-water-intensive-processes",
+                "data-node-id": "353:111",
+                "target": "_blank",
+                "rel": "noopener noreferrer",
+                "data-font-size": "20px",
+                "className": "d202"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d101"
+                  },
+                  "children": [
+                    {
+                      "textKey": "M1USDepartmentOf"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

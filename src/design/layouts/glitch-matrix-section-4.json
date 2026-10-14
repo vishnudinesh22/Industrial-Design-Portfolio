@@ -1,0 +1,273 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "217:628",
+    "data-name": "Glitch Matrix 04 · Glitch Matrix / Form alternatives",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:54",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:55",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:56",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:57",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:58",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:59",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "360:60",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "360:61",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "GlitchMatrixFormAlternatives"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "360:62",
+            "data-font-size": "27px",
+            "className": "d143"
+          },
+          "children": [
+            {
+              "textKey": "ConceptSketches"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "360:63",
+            "data-name": "Frame",
+            "className": "layout-row d158"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "360:64",
+                "data-name": "Frame",
+                "className": "d176"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "360:65",
+                    "data-name": "Glitch_Hunter_Matrix_Theme.pptx.pdf - Page 6 of 20",
+                    "data-aspect": 0.6681818181818182,
+                    "className": "media-slot d239"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "className": "d240"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d241",
+                            "imageKey": "imageGlitchHunterMatrixThemePptx"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:66",
+                    "data-font-size": "22px",
+                    "className": "d179"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ExistingProjectExplorationConceptMaterial"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "360:67",
+                "data-name": "Frame",
+                "className": "d180"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:68",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FormsExplored"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:69",
+                    "data-font-size": "29px",
+                    "className": "d182"
+                  },
+                  "children": [
+                    {
+                      "textKey": "WristWornAndHandheldLayouts"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:70",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "RationaleToEvaluate"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:71",
+                    "data-font-size": "29px",
+                    "className": "d182"
+                  },
+                  "children": [
+                    {
+                      "textKey": "CompareGripWristLoadVisibility"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:72",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "DecisionCriteria"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:73",
+                    "data-font-size": "29px",
+                    "className": "d182"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FitReachMassVisibilitySwivel"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

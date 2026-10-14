@@ -1,0 +1,560 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "353:112",
+    "data-name": "Glitch Matrix 09 · Glitch Matrix / Colour, material & finish",
+    "className": "design editorial d87"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:113",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:114",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:115",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:116",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:117",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:118",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "353:119",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "353:120",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "GlitchMatrixColourMaterialFinish"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "353:121",
+            "data-font-size": "29px",
+            "className": "d106"
+          },
+          "children": [
+            {
+              "textKey": "ProposedPaletteRetainThePurple"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:122",
+            "data-name": "Frame",
+            "className": "layout-row d193"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:123",
+                "data-name": "Frame",
+                "className": "d194"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:124",
+                    "data-name": "Rectangle",
+                    "className": "swatch d363"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:125",
+                    "data-font-size": "23px",
+                    "className": "d196"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ShellLilacA59ac4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:126",
+                "data-name": "Frame",
+                "className": "d194"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:127",
+                    "data-name": "Rectangle",
+                    "className": "swatch d364"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:128",
+                    "data-font-size": "23px",
+                    "className": "d196"
+                  },
+                  "children": [
+                    {
+                      "textKey": "GripCharcoal30343f"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:129",
+                "data-name": "Frame",
+                "className": "d194"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:130",
+                    "data-name": "Rectangle",
+                    "className": "swatch d365"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:131",
+                    "data-font-size": "23px",
+                    "className": "d196"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FeedbackLimeC8ef49"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:132",
+            "data-name": "Frame",
+            "className": "layout-row d199"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:133",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:134",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ColourInteraction"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:135",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "LilacShellIdentity"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CharcoalGripAndScreenSurround"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "LimeControlsAndFeedback"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "PairColourWithIconsTest"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:136",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:137",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "MaterialCandidates"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:138",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "EnclosureAbsPcAbsCandidates"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "GripCompatibleElastomer"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "ProtectedDisplayAndReplaceableButtons"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer2"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "FitAndImpactTestsStill"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:139",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:140",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FinishProduction"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:141",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "FineMatteShell"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SmoothGripTransitions"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "ThroughColourWearSurfaces"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer3"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CheckFastenersSwivelGapsGrip"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:142",
+            "data-name": "Frame",
+            "data-font-size": "20px",
+            "className": "d200"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.protolabs.com/services/injection-molding/abs/",
+                "data-node-id": "353:143",
+                "target": "_blank",
+                "rel": "noopener noreferrer",
+                "className": "d170"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d101"
+                  },
+                  "children": [
+                    {
+                      "textKey": "AbsReferenceProtolabs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.protolabs.com/materials/",
+                "data-node-id": "353:144",
+                "target": "_blank",
+                "rel": "noopener noreferrer",
+                "className": "d170"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d101"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ElastomerMaterialOptionsProtolabs"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

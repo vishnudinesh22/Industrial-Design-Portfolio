@@ -1,0 +1,296 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "170:410",
+    "data-name": "RailServe 01 · RailServe",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "354:2",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "354:3",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "354:4",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "354:5",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "354:6",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "354:7",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "354:8",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "354:9",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "Railserve"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "354:10",
+            "data-font-size": "27px",
+            "className": "d143"
+          },
+          "children": [
+            {
+              "textKey": "2Weeks"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "354:11",
+            "data-name": "Frame",
+            "className": "layout-row d144"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "354:12",
+                "data-name": "Frame",
+                "className": "d145"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "354:13",
+                    "data-font-size": "31px",
+                    "className": "d146"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "ModularCarrierForRailwayCatering"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "StackableFoodCompartments"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CarryingAndServingWorkflow"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "3dModellingAndVisualisation"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer2"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "ErgonomicsAndHygieneToValidate"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "a",
+                  "attributes": {
+                    "href": "/railserve/#section-3",
+                    "data-node-id": "354:14",
+                    "data-font-size": "24px",
+                    "className": "d147"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d101"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SupportingResearchNextSteps"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "354:15",
+                "data-name": "Frame",
+                "className": "d148"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "354:16",
+                    "data-name": "Rectangle",
+                    "data-aspect": 1.1846153846153846,
+                    "className": "media-slot d149"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attributes": {
+                        "loading": "lazy",
+                        "decoding": "async",
+                        "className": "d28",
+                        "imageKey": "imageRectangle2"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "354:17",
+                    "data-font-size": "22px",
+                    "className": "d150"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ConceptVisualisationProjectRender"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

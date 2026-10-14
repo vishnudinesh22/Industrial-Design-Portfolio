@@ -1,0 +1,560 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "353:2",
+    "data-name": "RailServe 07 · RailServe / Colour, material & finish",
+    "className": "design editorial d87"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:3",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:4",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:5",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:6",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:7",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "353:8",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "353:9",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "353:10",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "RailserveColourMaterialFinish"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "353:11",
+            "data-font-size": "29px",
+            "className": "d106"
+          },
+          "children": [
+            {
+              "textKey": "ProposedPaletteAndMaterialsGrades"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:12",
+            "data-name": "Frame",
+            "className": "layout-row d193"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:13",
+                "data-name": "Frame",
+                "className": "d194"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:14",
+                    "data-name": "Rectangle",
+                    "className": "swatch d195"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:15",
+                    "data-font-size": "23px",
+                    "className": "d196"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ServiceTeal0c96b0"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:16",
+                "data-name": "Frame",
+                "className": "d194"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:17",
+                    "data-name": "Rectangle",
+                    "className": "swatch d197"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:18",
+                    "data-font-size": "23px",
+                    "className": "d196"
+                  },
+                  "children": [
+                    {
+                      "textKey": "WarmLightGreyE7e7df"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:19",
+                "data-name": "Frame",
+                "className": "d194"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:20",
+                    "data-name": "Rectangle",
+                    "className": "swatch d198"
+                  },
+                  "children": []
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:21",
+                    "data-font-size": "23px",
+                    "className": "d196"
+                  },
+                  "children": [
+                    {
+                      "textKey": "LatchOrangeF26837"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:22",
+            "data-name": "Frame",
+            "className": "layout-row d199"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:23",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:24",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ColourUseCues"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:25",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "TealCarrierIdentity"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "LightGreyTrayInspection"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "OrangeReleasePoints"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "PairColourWithLabelsCheck"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:26",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:27",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "MaterialCandidates"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:28",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "TraysCompareFoodContactPp"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "FrameCompareMetalAndMoulded"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "FibreglassAlternativeToAssess"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer2"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "VerifyGradesCleanersAndTemperature"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "353:29",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "353:30",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FinishFabrication"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "353:31",
+                    "data-font-size": "29px",
+                    "className": "d154"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SmoothUnpaintedFoodContactInteriors"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "AccessibleCornersAndJoints"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "ReplaceableStraps"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Spacer3"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CheckMassCleaningAndFabrication"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "353:32",
+            "data-name": "Frame",
+            "data-font-size": "20px",
+            "className": "d200"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.protolabs.com/services/injection-molding/polypropylene/",
+                "data-node-id": "353:33",
+                "target": "_blank",
+                "rel": "noopener noreferrer",
+                "className": "d170"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d101"
+                  },
+                  "children": [
+                    {
+                      "textKey": "PpGradeReferenceProtolabs"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://fssai.gov.in/upload/uploadfiles/files/Compendium_Packaging_Labelling_Regulations_28_01_2022.pdf",
+                "data-node-id": "353:34",
+                "target": "_blank",
+                "rel": "noopener noreferrer",
+                "className": "d170"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d101"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FoodContactRequirementsReferenceFssai"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

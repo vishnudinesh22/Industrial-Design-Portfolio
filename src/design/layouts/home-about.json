@@ -1,0 +1,653 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "56:169",
+    "data-name": "Home 02 · Intro",
+    "className": "design artwork d37"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "aria-hidden": "true",
+        "className": "root-decoration d38"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d39"
+          },
+          "children": []
+        },
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "lazy",
+            "decoding": "async",
+            "className": "d40",
+            "imageKey": "imageHome02Intro"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:16",
+        "data-name": "Intro",
+        "className": "root-decoration d41"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "177:17",
+            "data-name": "Paper_06",
+            "className": "d42"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "className": "d2"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d43",
+                    "imageKey": "imagePaper06"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "177:50",
+            "className": "d44"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d6",
+                "imageKey": "imageIntro"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "160:43",
+            "className": "d45"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "159:5",
+                "data-font-size": "48px",
+                "className": "d46"
+              },
+              "children": [
+                {
+                  "textKey": "Education"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "160:42",
+                "className": "d47"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "159:6",
+                    "data-font-size": "26.646px",
+                    "className": "d48"
+                  },
+                  "children": [
+                    {
+                      "textKey": "BDesIndustrialDesign"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "159:7",
+                    "data-font-size": "23.49px",
+                    "className": "d49"
+                  },
+                  "children": [
+                    {
+                      "textKey": "VelloreInstituteOfTechnologyVit"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "150:16",
+            "data-name": "Gemini_Generated_Image_qa1ruyqa1ruyqa1r 1",
+            "className": "d50"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "className": "d51"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d52",
+                    "imageKey": "imageGeminiGeneratedImageQa1ruyqa1ruyqa1r1"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "160:40",
+            "className": "d53"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "160:39",
+                "className": "d54"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "160:29",
+                    "data-font-size": "0px",
+                    "className": "d55"
+                  },
+                  "children": [
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "data-font-size": "22.998px",
+                        "className": "d56"
+                      },
+                      "children": [
+                        {
+                          "textKey": "3dCad"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "data-font-size": "22.998px",
+                        "className": "d57"
+                      },
+                      "children": [
+                        {
+                          "textKey": "AutodeskFusion360Solidworks"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "span",
+                      "attributes": {
+                        "data-font-size": "22.998px",
+                        "className": "d58"
+                      },
+                      "children": [
+                        {
+                          "textKey": "BlenderRhino"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "159:17",
+                    "data-font-size": "22.998px",
+                    "className": "d59"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FigmaAdobeIllustratorAdobePhotoshop"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "160:26",
+                    "className": "d60"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "159:19",
+                        "data-name": "5968704 1",
+                        "className": "d61"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d28",
+                            "imageKey": "image59687041"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "159:20",
+                        "data-name": "Adobe-Illustrator-2024-Logo-PNG-Transparent-Creative-and-Distinctive-Design-jpg-768x768 1",
+                        "className": "d62"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d28",
+                            "imageKey": "imageAdobeIllustrator2024LogoPng"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "159:21",
+                        "data-name": "photoshop 1",
+                        "className": "d63"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d28",
+                            "imageKey": "imagePhotoshop1"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "159:22",
+                        "data-name": "autodesk-sketchbook-pro-seeklogo 1",
+                        "className": "d64"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d28",
+                            "imageKey": "imageAutodeskSketchbookProSeeklogo1"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "160:35",
+                    "className": "d65"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "160:27",
+                        "className": "d66"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "160:23",
+                            "data-name": "blender_logo 1",
+                            "className": "d67"
+                          },
+                          "children": [
+                            {
+                              "tag": "img",
+                              "attributes": {
+                                "loading": "lazy",
+                                "decoding": "async",
+                                "className": "d28",
+                                "imageKey": "imageBlenderLogo1"
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "160:31",
+                        "data-name": "autodesk-fusion-360-seeklogo 1",
+                        "className": "d68"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d28",
+                            "imageKey": "imageAutodeskFusion360Seeklogo1"
+                          },
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "160:32",
+                        "data-name": "solidworks-seeklogo 1",
+                        "className": "d69"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d28",
+                            "imageKey": "imageSolidworksSeeklogo1"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "159:15",
+                "data-font-size": "48px",
+                "className": "d70"
+              },
+              "children": [
+                {
+                  "textKey": "DesignTools"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "177:51",
+            "className": "d71"
+          },
+          "children": []
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "189:2",
+            "className": "d72"
+          },
+          "children": []
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "189:38",
+            "className": "d73"
+          },
+          "children": []
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "189:39",
+            "className": "d74"
+          },
+          "children": []
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "189:106",
+            "className": "d75"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "166:270",
+        "className": "d76"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "166:272",
+            "className": "d76"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "166:271",
+                "className": "d76"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "166:269",
+                    "className": "d77"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "159:4",
+                        "data-font-size": "29px",
+                        "className": "d78"
+                      },
+                      "children": [
+                        {
+                          "tag": "p",
+                          "attributes": {
+                            "className": "d79"
+                          },
+                          "children": [
+                            {
+                              "textKey": "B2bSoftwareManufacturingWorkflowsAnd"
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "p",
+                          "attributes": {
+                            "className": "d80"
+                          },
+                          "children": [
+                            {
+                              "textKey": "ExploreMyRolesAndExperience"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "data-node-id": "161:55",
+                        "data-font-size": "36px",
+                        "className": "d81"
+                      },
+                      "children": [
+                        {
+                          "textKey": "Experience"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "159:2",
+        "data-font-size": "64px",
+        "className": "d82"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d83"
+          },
+          "children": [
+            {
+              "textKey": "HelloIM"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d84"
+          },
+          "children": [
+            {
+              "textKey": "Vishnu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "354:63",
+        "data-font-size": "25px",
+        "className": "d85"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d86"
+          },
+          "children": [
+            {
+              "textKey": "DesignExperience"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d86"
+          },
+          "children": [
+            {
+              "textKey": "B2bInterfacesTechPackQc"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d86"
+          },
+          "children": [
+            {
+              "textKey": "BayneErgonomicBagManufacturing"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d86"
+          },
+          "children": [
+            {
+              "textKey": "CmfSelectionNewProductResearch"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d86"
+          },
+          "children": [
+            {
+              "textKey": "BrandingPrintProduction"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

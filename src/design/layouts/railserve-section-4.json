@@ -1,0 +1,265 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "195:65",
+    "data-name": "RailServe 04 · RailServe / Concept alternatives",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:2",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:3",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:4",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:5",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:6",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:7",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "360:8",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "360:9",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "RailserveConceptAlternatives"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "360:10",
+            "data-font-size": "27px",
+            "className": "d143"
+          },
+          "children": [
+            {
+              "textKey": "ProjectConceptExploration"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "360:11",
+            "data-name": "Frame",
+            "className": "layout-row d158"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "360:12",
+                "data-name": "Frame",
+                "className": "d176"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "360:13",
+                    "data-name": "Gemini_Generated_Image_9u3nnh9u3nnh9u3n 1",
+                    "data-aspect": 1.8,
+                    "className": "media-slot d177"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attributes": {
+                        "loading": "lazy",
+                        "decoding": "async",
+                        "className": "d178",
+                        "imageKey": "imageGeminiGeneratedImage9u3nnh9u3nnh9u3n1"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:14",
+                    "data-font-size": "22px",
+                    "className": "d179"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ExistingProjectExplorationConceptMaterial"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "360:15",
+                "data-name": "Frame",
+                "className": "d180"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:16",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "CurrentProposal"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:17",
+                    "data-font-size": "29px",
+                    "className": "d182"
+                  },
+                  "children": [
+                    {
+                      "textKey": "StackedCompartmentsSeparateDoorsAnd"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:18",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "RationaleToEvaluate"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:19",
+                    "data-font-size": "29px",
+                    "className": "d182"
+                  },
+                  "children": [
+                    {
+                      "textKey": "CompareAccessTrayRemovalAnd"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:20",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "DecisionCriteria"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:21",
+                    "data-font-size": "29px",
+                    "className": "d182"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ReachClearanceMassRetentionCleaning"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

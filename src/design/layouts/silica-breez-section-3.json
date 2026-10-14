@@ -1,0 +1,436 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "341:284",
+    "data-name": "Silica Breez 03 · Silica Breez — supporting research",
+    "className": "design editorial d155"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:285",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:286",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:287",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:288",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:289",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:290",
+        "data-font-size": "22px",
+        "className": "d156"
+      },
+      "children": [
+        {
+          "textKey": "HomeApplianceFormFunction"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "attributes": {
+        "data-node-id": "341:291",
+        "data-font-size": "54px",
+        "className": "d157"
+      },
+      "children": [
+        {
+          "textKey": "SilicaBreezResearchBasis"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:292",
+        "data-font-size": "29px",
+        "className": "d106"
+      },
+      "children": [
+        {
+          "textKey": "FormConceptWithACandidate"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:293",
+        "data-name": "Frame",
+        "className": "layout-row d158"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:294",
+            "data-name": "Frame",
+            "className": "d159"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:295",
+                "data-name": "Rectangle",
+                "data-aspect": 1.095890410958904,
+                "className": "media-slot d160"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d161",
+                    "imageKey": "imageRectangle2"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:296",
+                "data-font-size": "20px",
+                "className": "d162"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d163"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ExistingConceptIllustration"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d164"
+                  },
+                  "children": [
+                    {
+                      "textKey": "NotAPhotographOfA"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:297",
+            "data-name": "Frame",
+            "className": "d165"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:298",
+                "data-name": "Frame",
+                "className": "d166"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:299",
+                    "data-font-size": "27px",
+                    "className": "d167"
+                  },
+                  "children": [
+                    {
+                      "textKey": "01PublishedEvidence"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:300",
+                    "data-font-size": "29px",
+                    "className": "d168"
+                  },
+                  "children": [
+                    {
+                      "textKey": "EvaporativeCoolingSuitsLowHumidity"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:301",
+                "data-name": "Frame",
+                "className": "d166"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:302",
+                    "data-font-size": "27px",
+                    "className": "d167"
+                  },
+                  "children": [
+                    {
+                      "textKey": "02MaintenanceEvidence"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:303",
+                    "data-font-size": "29px",
+                    "className": "d168"
+                  },
+                  "children": [
+                    {
+                      "textKey": "MineralBuildupOnPadsCan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:304",
+                "data-name": "Frame",
+                "className": "d166"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:305",
+                    "data-font-size": "27px",
+                    "className": "d167"
+                  },
+                  "children": [
+                    {
+                      "textKey": "03DesignImplicationLimit"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:306",
+                    "data-font-size": "29px",
+                    "className": "d168"
+                  },
+                  "children": [
+                    {
+                      "textKey": "TestTheRemovableLatticeShell"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:307",
+        "data-name": "Frame",
+        "data-font-size": "19px",
+        "className": "d169"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.energy.gov.au/households/household-guides/energy-saving-guide-northern-australia/hot-arid-living",
+            "data-node-id": "341:308",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "S1AustralianGovernmentHotArid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.energy.gov/cmei/femp/best-management-practice-13-other-water-intensive-processes",
+            "data-node-id": "341:309",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "S2USDepartmentOf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "/silica-breez/#section-9",
+        "data-node-id": "341:310",
+        "data-font-size": "21px",
+        "className": "d172"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d171"
+          },
+          "children": [
+            {
+              "textKey": "TechnologyFutureObjectives"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:311",
+        "data-name": "Project navigation",
+        "data-font-size": "20px",
+        "className": "layout-row d173"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/#projects",
+            "data-node-id": "341:312",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "AllThreeProjects"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/silica-breez/#section-1",
+            "data-node-id": "341:313",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "ExistingCaseStudy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

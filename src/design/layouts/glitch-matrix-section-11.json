@@ -1,0 +1,542 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "341:371",
+    "data-name": "Glitch Matrix 11 · Glitch Matrix — technology & future objectives",
+    "className": "design editorial d155"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:372",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:373",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:374",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:375",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:376",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:377",
+        "data-font-size": "22px",
+        "className": "d156"
+      },
+      "children": [
+        {
+          "textKey": "PhysicalDigitalPlayInteraction"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "attributes": {
+        "data-node-id": "341:378",
+        "data-font-size": "54px",
+        "className": "d157"
+      },
+      "children": [
+        {
+          "textKey": "GlitchMatrixNextDevelopmentSteps"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:379",
+        "data-font-size": "29px",
+        "className": "d106"
+      },
+      "children": [
+        {
+          "textKey": "NextStepsFunctionalTrialsAnd"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:380",
+        "data-name": "Frame",
+        "className": "layout-row d203"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:381",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:382",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "PrototypeRoute"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:383",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Start"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ArcorePhoneAndGripMock"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Test"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "TrackingLightVisibilityMassAnd"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:384",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:385",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "ProximityFeedback"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:386",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Explore"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "UwbDistanceCuesAndVibration"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer2"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Measure"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ErrorLatencyPowerAndBody"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:387",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:388",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "PlayPhysicalSafety"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:389",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Plan"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "SupervisedRepeatedPlayWithConsent"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer3"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Check"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "SwivelAttachmentsBatteryEnclosureAnd"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:390",
+        "data-name": "Frame",
+        "data-font-size": "19px",
+        "className": "d169"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5154977/",
+            "data-node-id": "341:391",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "G1HoweEtAl2016"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://developers.google.com/ar/develop/fundamentals",
+            "data-node-id": "341:392",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "G2GoogleArcoreFundamentalConcepts"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.qorvo.com/products/p/DWM3001C",
+            "data-node-id": "341:393",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "G3QorvoDwm3001cUwbModule"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "/glitch-matrix/#section-3",
+        "data-node-id": "341:394",
+        "data-font-size": "21px",
+        "className": "d172"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d171"
+          },
+          "children": [
+            {
+              "textKey": "SupportingResearch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:395",
+        "data-name": "Project navigation",
+        "data-font-size": "20px",
+        "className": "layout-row d173"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/#projects",
+            "data-node-id": "341:396",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "AllThreeProjects"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/glitch-matrix/#section-1",
+            "data-node-id": "341:397",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "ExistingCaseStudy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

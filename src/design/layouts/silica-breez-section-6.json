@@ -1,0 +1,532 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "213:374",
+    "data-name": "Silica Breez 06 · Silica Breez / Proposed cooling architecture",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:41",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:42",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:43",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:44",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:45",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:46",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:47",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "356:48",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "SilicaBreezProposedCoolingArchitecture"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:49",
+            "data-font-size": "29px",
+            "className": "d106"
+          },
+          "children": [
+            {
+              "textKey": "CandidateEvaporativeSystemPerformanceTo"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "356:50",
+            "data-name": "Frame",
+            "className": "layout-row d230"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:51",
+                "data-name": "Frame",
+                "className": "d231"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:52",
+                    "data-font-size": "31px",
+                    "className": "d232"
+                  },
+                  "children": [
+                    {
+                      "textKey": "1Intake"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:53",
+                    "data-font-size": "27px",
+                    "className": "d233"
+                  },
+                  "children": [
+                    {
+                      "textKey": "AccessibleOuterGrille"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:54",
+                "data-name": "Frame",
+                "className": "d231"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:55",
+                    "data-font-size": "31px",
+                    "className": "d232"
+                  },
+                  "children": [
+                    {
+                      "textKey": "2Media"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:56",
+                    "data-font-size": "27px",
+                    "className": "d233"
+                  },
+                  "children": [
+                    {
+                      "textKey": "AirThroughWettedMedia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:57",
+                "data-name": "Frame",
+                "className": "d231"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:58",
+                    "data-font-size": "31px",
+                    "className": "d232"
+                  },
+                  "children": [
+                    {
+                      "textKey": "3Fan"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:59",
+                    "data-font-size": "27px",
+                    "className": "d233"
+                  },
+                  "children": [
+                    {
+                      "textKey": "MovesAirThroughTheSystem"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:60",
+                "data-name": "Frame",
+                "className": "d231"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:61",
+                    "data-font-size": "31px",
+                    "className": "d232"
+                  },
+                  "children": [
+                    {
+                      "textKey": "4Outlet"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:62",
+                    "data-font-size": "27px",
+                    "className": "d233"
+                  },
+                  "children": [
+                    {
+                      "textKey": "DistributionGeometryToDevelop"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:63",
+            "data-font-size": "32px",
+            "className": "d228"
+          },
+          "children": [
+            {
+              "textKey": "WaterLoopReservoirPumpMedia"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "356:64",
+            "data-name": "Frame",
+            "className": "layout-row d199"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:65",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:66",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FormFunction"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:67",
+                    "data-font-size": "29px",
+                    "className": "d153"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SeparateShellGuardAndAir"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CheckPressureLoss"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "DevelopInletOutletSeparation"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:68",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:69",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "AcousticsClimate"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:70",
+                    "data-font-size": "29px",
+                    "className": "d153"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "CompareFanSpeedAndVibration"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "MeasureNoise"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "TestAtDefinedTemperatureAnd"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:71",
+                "data-name": "Frame",
+                "className": "d151"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:72",
+                    "data-font-size": "31px",
+                    "className": "d152"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ServiceSeparation"
+                    }
+                  ]
+                },
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:73",
+                    "data-font-size": "29px",
+                    "className": "d153"
+                  },
+                  "children": [
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "RemoveMediaAndReservoirFor"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d79"
+                      },
+                      "children": [
+                        {
+                          "textKey": "SeparateWetAndElectricalZones"
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "p",
+                      "attributes": {
+                        "className": "d80"
+                      },
+                      "children": [
+                        {
+                          "textKey": "TestLeaksAndReassembly"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "356:74",
+            "data-name": "Frame",
+            "className": "d201"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://www.energy.gov.au/households/household-guides/energy-saving-guide-northern-australia/hot-arid-living",
+                "data-node-id": "356:75",
+                "target": "_blank",
+                "rel": "noopener noreferrer",
+                "data-font-size": "20px",
+                "className": "d202"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d101"
+                  },
+                  "children": [
+                    {
+                      "textKey": "CoolingSuitabilityAustralianGovernment"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

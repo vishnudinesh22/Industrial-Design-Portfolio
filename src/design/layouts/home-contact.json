@@ -1,0 +1,322 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "198:175",
+    "data-name": "Home 05 · Thank you — original graphics",
+    "className": "design artwork d0"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "198:174",
+        "className": "root-decoration d116"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "198:162",
+            "className": "d117"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d6",
+                "imageKey": "imageHome05ThankYouOriginal"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "198:172",
+            "className": "layout-row d118"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "className": "d119"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-aspect": 2.639001977433989,
+                    "className": "media-slot d120"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attributes": {
+                        "loading": "lazy",
+                        "decoding": "async",
+                        "className": "d6",
+                        "imageKey": "imageHome05ThankYouOriginal2"
+                      },
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "198:152",
+            "data-font-size": "60px",
+            "className": "d121"
+          },
+          "children": [
+            {
+              "textKey": "ThankYou"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "198:173",
+            "className": "d122"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "className": "d123"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d124",
+                    "imageKey": "imageHome05ThankYouOriginal3"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "160:51",
+            "data-name": "Layer 2 copy 1",
+            "className": "d125"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d28",
+                "imageKey": "imageLayer2Copy1"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "198:202",
+        "className": "root-decoration d126"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "lazy",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome05ThankYouOriginal4"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "198:207",
+        "className": "root-decoration d127"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "lazy",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome05ThankYouOriginal5"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "198:212",
+        "data-font-size": "40px",
+        "className": "d128"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d129"
+          },
+          "children": [
+            {
+              "textKey": "ThisDoesnTHaveTo"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d130"
+          },
+          "children": [
+            {
+              "textKey": "EndHere"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "198:213",
+        "data-font-size": "34px",
+        "className": "d131"
+      },
+      "children": [
+        {
+          "textKey": "LetSDiscussTheWork"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "202:17",
+        "className": "root-decoration d132"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "data-node-id": "202:13",
+            "data-font-size": "23.515px",
+            "href": "mailto:vishnudine@gmail.com",
+            "className": "d133"
+          },
+          "children": [
+            {
+              "textKey": "VishnudineGmailCom"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "202:14",
+            "data-font-size": "0px",
+            "className": "d134"
+          },
+          "children": [
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "https://linkedin.com/in/vishnudinesh22",
+                "target": "_blank",
+                "rel": "noopener noreferrer",
+                "data-font-size": "23.273px",
+                "className": "d135"
+              },
+              "children": [
+                {
+                  "tag": "span",
+                  "attributes": {
+                    "rel": "noopener noreferrer",
+                    "className": ""
+                  },
+                  "children": [
+                    {
+                      "textKey": "LinkedinComInVishnudinesh22"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "span",
+              "attributes": {
+                "data-font-size": "23.273px",
+                "className": "d136"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "202:15",
+            "data-name": "linkedin 1",
+            "className": "d137"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d28",
+                "imageKey": "imageLinkedin1"
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "202:16",
+            "data-name": "communication 1",
+            "className": "d138"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d28",
+                "imageKey": "imageCommunication1"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

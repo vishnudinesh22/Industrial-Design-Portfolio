@@ -1,0 +1,459 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "341:340",
+    "data-name": "Glitch Matrix 03 · Glitch Matrix — supporting research",
+    "className": "design editorial d155"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:341",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:342",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:343",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:344",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:345",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:346",
+        "data-font-size": "22px",
+        "className": "d156"
+      },
+      "children": [
+        {
+          "textKey": "PhysicalDigitalPlayInteraction"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "attributes": {
+        "data-node-id": "341:347",
+        "data-font-size": "54px",
+        "className": "d157"
+      },
+      "children": [
+        {
+          "textKey": "GlitchMatrixResearchBasis"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:348",
+        "data-font-size": "29px",
+        "className": "d106"
+      },
+      "children": [
+        {
+          "textKey": "InteractionConceptArAndTracking"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:349",
+        "data-name": "Frame",
+        "className": "layout-row d158"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:350",
+            "data-name": "Frame",
+            "className": "d159"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:351",
+                "data-name": "Rectangle",
+                "data-aspect": 1.095890410958904,
+                "className": "media-slot d160"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d161",
+                    "imageKey": "imageRectangle2"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:352",
+                "data-font-size": "20px",
+                "className": "d162"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d163"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ExistingConceptIllustration"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d164"
+                  },
+                  "children": [
+                    {
+                      "textKey": "NotAPhotographOfA"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:353",
+            "data-name": "Frame",
+            "className": "d165"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:354",
+                "data-name": "Frame",
+                "className": "d166"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:355",
+                    "data-font-size": "27px",
+                    "className": "d167"
+                  },
+                  "children": [
+                    {
+                      "textKey": "01BehaviouralPrecedent"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:356",
+                    "data-font-size": "29px",
+                    "className": "d168"
+                  },
+                  "children": [
+                    {
+                      "textKey": "In1182AdultsPok"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:357",
+                "data-name": "Frame",
+                "className": "d166"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:358",
+                    "data-font-size": "27px",
+                    "className": "d167"
+                  },
+                  "children": [
+                    {
+                      "textKey": "02TechnologyPrecedent"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:359",
+                    "data-font-size": "29px",
+                    "className": "d168"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ArcoreSupportsCameraInertialTracking"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:360",
+                "data-name": "Frame",
+                "className": "d166"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:361",
+                    "data-font-size": "27px",
+                    "className": "d167"
+                  },
+                  "children": [
+                    {
+                      "textKey": "03DesignImplicationLimit"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "341:362",
+                    "data-font-size": "29px",
+                    "className": "d168"
+                  },
+                  "children": [
+                    {
+                      "textKey": "TestSustainedEngagementInThe"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:363",
+        "data-name": "Frame",
+        "data-font-size": "19px",
+        "className": "d169"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5154977/",
+            "data-node-id": "341:364",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "G1HoweEtAl2016"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://developers.google.com/ar/develop/fundamentals",
+            "data-node-id": "341:365",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "G2GoogleArcoreFundamentalConcepts"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.qorvo.com/products/p/DWM3001C",
+            "data-node-id": "341:366",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "G3QorvoDwm3001cUwbModule"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "/glitch-matrix/#section-11",
+        "data-node-id": "341:367",
+        "data-font-size": "21px",
+        "className": "d172"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d171"
+          },
+          "children": [
+            {
+              "textKey": "TechnologyFutureObjectives"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:368",
+        "data-name": "Project navigation",
+        "data-font-size": "20px",
+        "className": "layout-row d173"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/#projects",
+            "data-node-id": "341:369",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "AllThreeProjects"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/glitch-matrix/#section-1",
+            "data-node-id": "341:370",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "ExistingCaseStudy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

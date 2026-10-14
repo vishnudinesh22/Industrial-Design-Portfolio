@@ -1,0 +1,288 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "213:345",
+    "data-name": "Silica Breez 05 · Silica Breez / Component-layout exploration",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:103",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:104",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:105",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:106",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:107",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:108",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "358:109",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "358:110",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "SilicaBreezComponentLayoutExploration"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "358:111",
+            "data-font-size": "27px",
+            "className": "d143"
+          },
+          "children": [
+            {
+              "textKey": "ExistingProjectSketches"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "358:112",
+            "data-name": "Frame",
+            "className": "layout-row d96"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "358:113",
+                "data-name": "Frame",
+                "className": "d224"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "358:114",
+                    "data-name": "WhatsApp Image 2026-04-25 at 14.18.38 1",
+                    "data-aspect": 1.6608695652173913,
+                    "className": "media-slot d225"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attributes": {
+                        "loading": "lazy",
+                        "decoding": "async",
+                        "className": "d178",
+                        "imageKey": "imageWhatsappImage20260425"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "358:115",
+                    "data-font-size": "25px",
+                    "className": "d226"
+                  },
+                  "children": [
+                    {
+                      "textKey": "EarlyComponentArrangement"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "358:116",
+                "data-name": "Frame",
+                "className": "d224"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "358:117",
+                    "data-name": "WhatsApp Image 2026-04-25 at 14.23.46 1",
+                    "data-aspect": 1.6608695652173913,
+                    "className": "media-slot d227"
+                  },
+                  "children": [
+                    {
+                      "tag": "img",
+                      "attributes": {
+                        "loading": "lazy",
+                        "decoding": "async",
+                        "className": "d109",
+                        "imageKey": "imageWhatsappImage202604252"
+                      },
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "358:118",
+                    "data-font-size": "25px",
+                    "className": "d226"
+                  },
+                  "children": [
+                    {
+                      "textKey": "AssemblyAirPathExploration"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "358:119",
+            "data-font-size": "32px",
+            "className": "d228"
+          },
+          "children": [
+            {
+              "textKey": "DesignIteration"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "358:120",
+            "data-font-size": "29px",
+            "className": "d229"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d79"
+              },
+              "children": [
+                {
+                  "textKey": "WettedMediaReplacesTheEarlier"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d79"
+              },
+              "children": [
+                {
+                  "textKey": "SeparateWetAndElectricalZones"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d79"
+              },
+              "children": [
+                {
+                  "textKey": "RemovableMediaReservoirAndShell"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d80"
+              },
+              "children": [
+                {
+                  "textKey": "DimensionsAndComponentChoicesTo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

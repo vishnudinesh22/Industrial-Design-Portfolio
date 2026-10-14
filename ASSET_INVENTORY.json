@@ -1,0 +1,492 @@
+{
+  "figmaFile": "97hdJrDuXj0vjh4M1xg0A1",
+  "assets": [
+    {
+      "filename": "5fe4f.png",
+      "sourceName": "Paper06",
+      "usedBy": [
+        "56:168",
+        "56:169",
+        "369:2",
+        "341:200",
+        "170:410",
+        "64:12",
+        "341:228",
+        "195:65",
+        "195:71",
+        "200:239",
+        "353:2",
+        "353:35",
+        "341:258",
+        "204:2",
+        "204:26",
+        "341:284",
+        "204:149",
+        "213:345",
+        "213:374",
+        "353:57",
+        "353:90",
+        "341:314",
+        "204:195",
+        "217:522",
+        "341:340",
+        "217:628",
+        "217:685",
+        "227:62",
+        "228:336",
+        "217:700",
+        "353:112",
+        "353:145",
+        "341:371"
+      ],
+      "localPath": "/images/shared/paper-texture-5fe4f.png",
+      "sha256": "dcc3596f9268fac5640b1385994d660aed6aba6afa7ebd5fbba2d8fbb4f8e72f"
+    },
+    {
+      "filename": "45eb1.png",
+      "sourceName": "Asset11",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/asset11-45eb1.png",
+      "sha256": "c1c531ee4964ac36d5ecdc726b05c0884ba8faac49cbcac4a3a9e4dc83eedf7c"
+    },
+    {
+      "filename": "56762.svg",
+      "sourceName": "Rectangle25",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle25-56762.svg",
+      "sha256": "95b01f2ac4a8b5299e7d30f68596540cdbad2e78fa6522d85ea2d61e155402de"
+    },
+    {
+      "filename": "47932.svg",
+      "sourceName": "Rectangle30",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle30-47932.svg",
+      "sha256": "59a278c14fdbc6125b4a8a9d4e29aa78575c4df8f7c9921a78412125a06d927d"
+    },
+    {
+      "filename": "a49cb.svg",
+      "sourceName": "Rectangle26",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle26-a49cb.svg",
+      "sha256": "9ade5574075421baf23e510fa71c7d69a0cebd4d231523a306f026d51a50c719"
+    },
+    {
+      "filename": "17e08.svg",
+      "sourceName": "Rectangle31",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle31-17e08.svg",
+      "sha256": "638dcf95b327bd3c9a30f76c04560236186bd86722c20c0b541c971f2b90e0df"
+    },
+    {
+      "filename": "1f334.svg",
+      "sourceName": "Rectangle33",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle33-1f334.svg",
+      "sha256": "2b80dac7656179b132881b5a35f01d2ee518b545ebefeb673a177fc41c5368a3"
+    },
+    {
+      "filename": "5ca78.svg",
+      "sourceName": "Rectangle37",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle37-5ca78.svg",
+      "sha256": "66d690b182113fe6277a44f398d9589b213db1bcd721b12b05178b61e516ccfd"
+    },
+    {
+      "filename": "e8267.svg",
+      "sourceName": "Rectangle38",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle38-e8267.svg",
+      "sha256": "83293f3ac5614e5ac1b49320d6d2a293a6315be78b628f42530ffd428c9ddbc4"
+    },
+    {
+      "filename": "78af1.svg",
+      "sourceName": "Rectangle39",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle39-78af1.svg",
+      "sha256": "bd52ace515d4fea6d4512a2fc85ceea06c4cd938589c2e3679fdd8ab74fe3b8d"
+    },
+    {
+      "filename": "09699.svg",
+      "sourceName": "Rectangle40",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle40-09699.svg",
+      "sha256": "d43826c0d5e5dc53ac2afa2f1d5490b834163caa193ac1cc5e47f8fdbaab9dab"
+    },
+    {
+      "filename": "9dfcc.svg",
+      "sourceName": "Rectangle32",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/rectangle32-9dfcc.svg",
+      "sha256": "71fcea6f24e95785f11ac1df4df9ecf3b7fa3e56d1b13d1ed11eeab77baa8e48"
+    },
+    {
+      "filename": "608c9.svg",
+      "sourceName": "Group24",
+      "usedBy": [
+        "56:168"
+      ],
+      "localPath": "/images/homepage/group24-608c9.svg",
+      "sha256": "11a7634bf782ba59126c960202174c69ae94de692bf85b308abf243c6a6637f7"
+    },
+    {
+      "filename": "4d09b.svg",
+      "sourceName": "Group23",
+      "usedBy": [
+        "56:168",
+        "198:175"
+      ],
+      "localPath": "/images/homepage/group23-4d09b.svg",
+      "sha256": "09e9e0a5eed33563da059e7a9f3bf0f76ec27282210ff5ec4b8c1c3d7192249f"
+    },
+    {
+      "filename": "e8601.png",
+      "sourceName": "Home02Intro",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/home02-intro-e8601.png",
+      "sha256": "c3762f14639d02339bcc614ece7d5e7f101283972771594b740c408c11b5d967"
+    },
+    {
+      "filename": "ee561.png",
+      "sourceName": "GeminiGeneratedImageQa1Ruyqa1Ruyqa1R1",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/gemini-generated-image-qa1-ruyqa1-ruyqa1-r1-ee561.png",
+      "sha256": "db34680578db9c24d50681aa64ee4c1540c204ed8bfe1a6bbb6512c4d4cbedf1"
+    },
+    {
+      "filename": "d0567.png",
+      "sourceName": "59687041",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/59687041-d0567.png",
+      "sha256": "84a739f26497e78554a15938556a94aef58789c26e996c46a57c8798c2b7c098"
+    },
+    {
+      "filename": "0a64b.png",
+      "sourceName": "AdobeIllustrator2024LogoPngTransparentCreativeAndDistinctiveDesignJpg768X7681",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/adobe-illustrator2024-logo-png-transparent-creative-and-distinct-0a64b.png",
+      "sha256": "907ef150480a7833dfa44951b4fd525a77876b7880f7a224bbbd800b17646f44"
+    },
+    {
+      "filename": "dd70e.png",
+      "sourceName": "Photoshop1",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/photoshop1-dd70e.png",
+      "sha256": "d623224425e0c0d3a09680c6d24d7d903bf0e0bdce779d4c22a103845c19efe2"
+    },
+    {
+      "filename": "55c4a.png",
+      "sourceName": "AutodeskSketchbookProSeeklogo1",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/autodesk-sketchbook-pro-seeklogo1-55c4a.png",
+      "sha256": "d812581c6c9c0452042e552a8b73c4dc395de301c1c63ad534d3022f4992b7e8"
+    },
+    {
+      "filename": "c2589.png",
+      "sourceName": "BlenderLogo1",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/blender-logo1-c2589.png",
+      "sha256": "5cf91e2e610357f0ce85a1cd29be8f416d6d36519757cb323fa10d2458e47782"
+    },
+    {
+      "filename": "86ce6.png",
+      "sourceName": "AutodeskFusion360Seeklogo1",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/autodesk-fusion360-seeklogo1-86ce6.png",
+      "sha256": "406476f2b807d77faa773459aa6c6d6600fd18de97e5a7c85de39dd088c91603"
+    },
+    {
+      "filename": "898ed.png",
+      "sourceName": "SolidworksSeeklogo1",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/solidworks-seeklogo1-898ed.png",
+      "sha256": "c5afaf7b52d0535e6d7149b46bbe54ed35b98f6201e72405b9d6856815ee859b"
+    },
+    {
+      "filename": "1e0df.svg",
+      "sourceName": "Rectangle41",
+      "usedBy": [
+        "56:169"
+      ],
+      "localPath": "/images/homepage/rectangle41-1e0df.svg",
+      "sha256": "364b24d964199f690dfb9424d6d900e50f2e36930af1f8efe5162dd0bb06a00c"
+    },
+    {
+      "filename": "8e54d.png",
+      "sourceName": "RailServeOriginalProductPresentation",
+      "usedBy": [
+        "341:200",
+        "341:228"
+      ],
+      "localPath": "/images/railserve/rail-serve-original-product-presentation-8e54d.png",
+      "sha256": "e066d6225bfc36021fadb1ce9635183ec630a49050f8ef82a02a8c907496d7ad"
+    },
+    {
+      "filename": "65299.png",
+      "sourceName": "SilicaBreezOriginalRoomRender",
+      "usedBy": [
+        "341:200",
+        "204:2",
+        "341:284"
+      ],
+      "localPath": "/images/silica-breez/silica-breez-original-room-render-65299.png",
+      "sha256": "41c54c6ecd117c7cdb16cd1f61d4b4e9b3b64da50214f4038d60da44a1110eb0"
+    },
+    {
+      "filename": "6247f.png",
+      "sourceName": "Rectangle1",
+      "usedBy": [
+        "341:200",
+        "204:195",
+        "227:62"
+      ],
+      "localPath": "/images/glitch-matrix/rectangle1-6247f.png",
+      "sha256": "e52fe5d3736f4a56a2bcf6de5b363512dc1fafacff9d5f94478d418858d5fe59"
+    },
+    {
+      "filename": "3a061.png",
+      "sourceName": "Layer2Copy1",
+      "usedBy": [
+        "198:175"
+      ],
+      "localPath": "/images/homepage/layer2-copy1-3a061.png",
+      "sha256": "d5fc9e322b49a7012dc8200b6c14536dfc3273608e6af5f1195b602e2b166124"
+    },
+    {
+      "filename": "89042.png",
+      "sourceName": "Linkedin1",
+      "usedBy": [
+        "198:175"
+      ],
+      "localPath": "/images/homepage/linkedin1-89042.png",
+      "sha256": "66de55a93bd4719ca2363c6e79dd59596a422e7f0b8afba214a91be8e337e8ca"
+    },
+    {
+      "filename": "12124.png",
+      "sourceName": "Communication1",
+      "usedBy": [
+        "198:175"
+      ],
+      "localPath": "/images/homepage/communication1-12124.png",
+      "sha256": "f856dfef73bcb874f386a091bde137a26a174aec8417a0c44566cafefaec4592"
+    },
+    {
+      "filename": "fd4a8.svg",
+      "sourceName": "Group31",
+      "usedBy": [
+        "198:175"
+      ],
+      "localPath": "/images/homepage/group31-fd4a8.svg",
+      "sha256": "74815722cb6cf22058fa3305f0e221439ec277be6732b91015d13e261a5d9913"
+    },
+    {
+      "filename": "64762.svg",
+      "sourceName": "Group32",
+      "usedBy": [
+        "198:175"
+      ],
+      "localPath": "/images/homepage/group32-64762.svg",
+      "sha256": "9a54f4d36a3c0f1f88b698521610e54b45ce99b893d8fed73bb30f94ba07a465"
+    },
+    {
+      "filename": "f3356.svg",
+      "sourceName": "Vector21",
+      "usedBy": [
+        "198:175"
+      ],
+      "localPath": "/images/homepage/vector21-f3356.svg",
+      "sha256": "6c2aab498e9a4a94683fd6fa386c486c791c5b734bb1fdbc02fe8f59d8a5b3e1"
+    },
+    {
+      "filename": "28cd5.png",
+      "sourceName": "Rectangle1",
+      "usedBy": [
+        "170:410"
+      ],
+      "localPath": "/images/railserve/rectangle1-28cd5.png",
+      "sha256": "acfe58d912784fb756e22e8be79efcc72d5c44983af2db9408ce3470f446e369"
+    },
+    {
+      "filename": "9d3e9.png",
+      "sourceName": "GeminiGeneratedImage9U3Nnh9U3Nnh9U3N1",
+      "usedBy": [
+        "195:65"
+      ],
+      "localPath": "/images/railserve/gemini-generated-image9-u3-nnh9-u3-nnh9-u3-n1-9d3e9.png",
+      "sha256": "338a795f06e30f0216c162fb0e188db9595cb2cbc90557524e4dc28c670b6531"
+    },
+    {
+      "filename": "4538b.png",
+      "sourceName": "SustainableProductDesign1PdfPage5Of16",
+      "usedBy": [
+        "195:71"
+      ],
+      "localPath": "/images/railserve/sustainable-product-design1-pdf-page5-of16-4538b.png",
+      "sha256": "d60cc285ef0d8e4542368a590fd22bc08b7bcd86d3819cae5044a932db012084"
+    },
+    {
+      "filename": "6ffc4.png",
+      "sourceName": "AdvProject2026PdfPage8Of19",
+      "usedBy": [
+        "204:149"
+      ],
+      "localPath": "/images/silica-breez/adv-project2026-pdf-page8-of19-6ffc4.png",
+      "sha256": "095dc139ff336f3bf0d25c76e791e2a20c1a27ef796f3ad91bb392d0a435c6a0"
+    },
+    {
+      "filename": "8c717.png",
+      "sourceName": "WhatsAppImage20260409At1111041",
+      "usedBy": [
+        "204:149"
+      ],
+      "localPath": "/images/silica-breez/whats-app-image20260409-at1111041-8c717.png",
+      "sha256": "481379fd13be9c7acebff63a01010fe3fb6d053fab12bb6edf570e81fe950cc8"
+    },
+    {
+      "filename": "9d022.svg",
+      "sourceName": "Arrow7",
+      "usedBy": [
+        "204:149"
+      ],
+      "localPath": "/images/silica-breez/arrow7-9d022.svg",
+      "sha256": "aab75c4506568c1d5e06bc942e515c4bd1e3f17972c9a774ae17c36e1deccdd4"
+    },
+    {
+      "filename": "c6afe.png",
+      "sourceName": "WhatsAppImage20260425At1418381",
+      "usedBy": [
+        "213:345"
+      ],
+      "localPath": "/images/silica-breez/whats-app-image20260425-at1418381-c6afe.png",
+      "sha256": "e2cb3c15589ee1fcc612492f6007a32fdd643f8eee1d3d8d081960c447450f6e"
+    },
+    {
+      "filename": "d90ec.png",
+      "sourceName": "WhatsAppImage20260425At1423461",
+      "usedBy": [
+        "213:345"
+      ],
+      "localPath": "/images/silica-breez/whats-app-image20260425-at1423461-d90ec.png",
+      "sha256": "f61e253643229feb9b9d809eff692b3c808792135e36ca00c0cf1d2800cc05b6"
+    },
+    {
+      "filename": "99f69.png",
+      "sourceName": "Rectangle1",
+      "usedBy": [
+        "341:340"
+      ],
+      "localPath": "/images/glitch-matrix/rectangle1-99f69.png",
+      "sha256": "d85b61a2dbe044e85c8bf9a16681d6f2dda5c1ac500c4145077620fde89d7c5d"
+    },
+    {
+      "filename": "efeff.png",
+      "sourceName": "GlitchHunterMatrixThemePptxPdfPage6Of20",
+      "usedBy": [
+        "217:628"
+      ],
+      "localPath": "/images/glitch-matrix/glitch-hunter-matrix-theme-pptx-pdf-page6-of20-efeff.png",
+      "sha256": "ad3aca030c8f3a22bc8626c0895d2862a8867ac2dcef055faabb641d723827bc"
+    },
+    {
+      "filename": "bf0df.png",
+      "sourceName": "GlitchHunterMatrixThemePptxPdfPage8Of17",
+      "usedBy": [
+        "217:685"
+      ],
+      "localPath": "/images/glitch-matrix/glitch-hunter-matrix-theme-pptx-pdf-page8-of17-bf0df.png",
+      "sha256": "6ea3ce168765b368a281ee79ce48532975f375e7fafa9ddcca3296bd18be4534"
+    },
+    {
+      "filename": "c67ad.png",
+      "sourceName": "DigitalGreenCircuitBoardDataStreams",
+      "usedBy": [
+        "228:336"
+      ],
+      "localPath": "/images/glitch-matrix/digital-green-circuit-board-data-streams-c67ad.png",
+      "sha256": "4a71508004769045577e20f706a6ebee321bd4f995b3b76a12a3f59c925f2f2c"
+    },
+    {
+      "filename": "b34be.png",
+      "sourceName": "ScanningOverlay",
+      "usedBy": [
+        "228:336"
+      ],
+      "localPath": "/images/glitch-matrix/scanning-overlay-b34be.png",
+      "sha256": "278a2d8ee3463da5290d9a2a13c124e4a4c76dbad805484c28e632928f17e809"
+    },
+    {
+      "filename": "03ee3.png",
+      "sourceName": "BackgroundArtifacts",
+      "usedBy": [
+        "228:336"
+      ],
+      "localPath": "/images/glitch-matrix/background-artifacts-03ee3.png",
+      "sha256": "c723b1e2b4558a80f29e659ab1a7e80d4451c8e1d3acadc31f66767b5d33176e"
+    },
+    {
+      "filename": "abcb7.png",
+      "sourceName": "Ab6AXuAk1QZs3Ie34OyFfGpVoPbmVNbzW3JWw4M0NmvFb3CjSmWc8NEfAocpLWj4WWKt5M2Xj2G98LN3RVTaYsUhHgeNaPhBnXecVaLCcnBfVwqmN05GsXHj8U9OUv9SxmkLDnm3A7XfLk5IZq4CoKrOyUS1MfRzddUzYxAlcMgiY02QgFOsLRwXlXYyL1Z5F0W2H41ONmDar6FeZg5DQ4OdJ5TrBrs49DPjlPrfsqyT7VoPfqbIiqeR6LiKDv6RIlcjrqmk",
+      "usedBy": [
+        "228:336"
+      ],
+      "localPath": "/images/glitch-matrix/interface-illustration-abcb7.png",
+      "sha256": "109d1414836ece02dfe04b034e85e0081650a0ee344d2b6fcf6f086848ea5225"
+    },
+    {
+      "filename": "e2b37.png",
+      "sourceName": "Ab6AXuAr6R2L2WzKwbgI0ZtR4Ixfwlp3HLNgtvyA0NTSll0W9Y3J9VrlHqhNinjj6PjjJlsNh7VsVaHxKw8M1YNjc0Xs9YRlgQ9PzCrxXbQnGfh7RegDgb1O3F4RdacxaJqjm0Ik9OrjcNtfcZoyvMzDwFfKSjQaicoq9RrjRAj722Zf1VqqZzRhTdxjbuVoziOnuY8Ye1ZTCM42Wic2RfKZxNqSvasGWwwBAgeCn80HeyFn8MX7DrIcd13EVBizh7Lvur6LmKh",
+      "usedBy": [
+        "228:336"
+      ],
+      "localPath": "/images/glitch-matrix/interface-illustration-e2b37.png",
+      "sha256": "c85e2cdc0e3ad8958f881069471d197f37c96c55ad14738005029a07ba1edeac"
+    }
+  ],
+  "fonts": [
+    "inter-bold.ttf",
+    "inter-regular.ttf",
+    "inter-semibold.ttf",
+    "rubik-broken-fax.ttf",
+    "space-grotesk-bold.ttf",
+    "space-grotesk-regular.ttf"
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "217:685",
+    "data-name": "Glitch Matrix 05 · Glitch Matrix / Form & assembly studies",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:76",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:77",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:78",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:79",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:80",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "356:81",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:82",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "356:83",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "GlitchMatrixFormAssemblyStudies"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:84",
+            "data-font-size": "29px",
+            "className": "d106"
+          },
+          "children": [
+            {
+              "textKey": "ProjectStudiesShapeAndAssembly"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "356:85",
+            "data-name": "Frame",
+            "className": "layout-row d242"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:86",
+                "data-name": "Frame",
+                "className": "d243"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:87",
+                    "data-name": "Glitch_Hunter_Matrix_Theme.pptx.pdf - Page 8 of 17",
+                    "data-aspect": 0.7439516129032258,
+                    "className": "media-slot d244"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "className": "d245"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d246",
+                            "imageKey": "imageGlitchHunterMatrixThemePptx"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:88",
+                    "data-font-size": "24px",
+                    "className": "d247"
+                  },
+                  "children": [
+                    {
+                      "textKey": "SketchLayoutStudy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:89",
+                "data-name": "Frame",
+                "className": "d243"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:90",
+                    "data-name": "Glitch_Hunter_Matrix_Theme.pptx.pdf - Page 8 of 18",
+                    "data-aspect": 0.7439516129032258,
+                    "className": "media-slot d244"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "className": "d245"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d248",
+                            "imageKey": "imageGlitchHunterMatrixThemePptx2"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:91",
+                    "data-font-size": "24px",
+                    "className": "d247"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ProjectFormStudy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:92",
+                "data-name": "Frame",
+                "className": "d243"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:93",
+                    "data-name": "Glitch_Hunter_Matrix_Theme.pptx.pdf - Page 8 of 19",
+                    "data-aspect": 0.7439516129032258,
+                    "className": "media-slot d244"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "className": "d245"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d249",
+                            "imageKey": "imageGlitchHunterMatrixThemePptx3"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:94",
+                    "data-font-size": "24px",
+                    "className": "d247"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ProjectAssemblyStudy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "356:95",
+                "data-name": "Frame",
+                "className": "d243"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "356:96",
+                    "data-name": "Glitch_Hunter_Matrix_Theme.pptx.pdf - Page 8 of 20",
+                    "data-aspect": 0.7439516129032258,
+                    "className": "media-slot d244"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "className": "d245"
+                      },
+                      "children": [
+                        {
+                          "tag": "img",
+                          "attributes": {
+                            "loading": "lazy",
+                            "decoding": "async",
+                            "className": "d250",
+                            "imageKey": "imageGlitchHunterMatrixThemePptx4"
+                          },
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "356:97",
+                    "data-font-size": "24px",
+                    "className": "d247"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ProjectFormVisualisation"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "356:98",
+            "data-font-size": "29px",
+            "className": "d106"
+          },
+          "children": [
+            {
+              "textKey": "FormAssemblyEvidenceOnlyFunctional"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

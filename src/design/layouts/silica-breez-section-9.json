@@ -1,0 +1,519 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "341:314",
+    "data-name": "Silica Breez 09 · Silica Breez — technology & future objectives",
+    "className": "design editorial d155"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:315",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:316",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:317",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:318",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:319",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:320",
+        "data-font-size": "22px",
+        "className": "d156"
+      },
+      "children": [
+        {
+          "textKey": "HomeApplianceFormFunction"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "attributes": {
+        "data-node-id": "341:321",
+        "data-font-size": "54px",
+        "className": "d157"
+      },
+      "children": [
+        {
+          "textKey": "SilicaBreezNextDevelopmentSteps"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:322",
+        "data-font-size": "29px",
+        "className": "d106"
+      },
+      "children": [
+        {
+          "textKey": "NextStepsCoolingServiceAccess"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:323",
+        "data-name": "Frame",
+        "className": "layout-row d203"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:324",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:325",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "CoolingArchitecture"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:326",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Compare"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "FanOnlyAndWettedMedia"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Measure"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "TemperatureHumidityAirflowNoisePower"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:327",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:328",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "ShellServiceAccess"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:329",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Propose"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "RemovableShellMediaAndReservoir"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer2"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Test"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "PressureLossCleaningGuardingAnd"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:330",
+            "data-name": "Frame",
+            "className": "d204"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:331",
+                "data-font-size": "30px",
+                "className": "d205"
+              },
+              "children": [
+                {
+                  "textKey": "MaterialsNextGate"
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:332",
+                "data-font-size": "29px",
+                "className": "d206"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Next"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "PrototypeTheFormAndAssess"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Spacer3"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d79"
+                  },
+                  "children": [
+                    {
+                      "textKey": "Review"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d80"
+                  },
+                  "children": [
+                    {
+                      "textKey": "WallThicknessJoinsToolingAnd"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:333",
+        "data-name": "Frame",
+        "data-font-size": "19px",
+        "className": "d169"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.energy.gov.au/households/household-guides/energy-saving-guide-northern-australia/hot-arid-living",
+            "data-node-id": "341:334",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "S1AustralianGovernmentHotArid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "https://www.energy.gov/cmei/femp/best-management-practice-13-other-water-intensive-processes",
+            "data-node-id": "341:335",
+            "target": "_blank",
+            "rel": "noopener noreferrer",
+            "className": "d170"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d171"
+              },
+              "children": [
+                {
+                  "textKey": "S2USDepartmentOf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "a",
+      "attributes": {
+        "href": "/silica-breez/#section-3",
+        "data-node-id": "341:336",
+        "data-font-size": "21px",
+        "className": "d172"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d171"
+          },
+          "children": [
+            {
+              "textKey": "SupportingResearch"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:337",
+        "data-name": "Project navigation",
+        "data-font-size": "20px",
+        "className": "layout-row d173"
+      },
+      "children": [
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/#projects",
+            "data-node-id": "341:338",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "AllThreeProjects"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "a",
+          "attributes": {
+            "href": "/silica-breez/#section-1",
+            "data-node-id": "341:339",
+            "className": "d174"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d175"
+              },
+              "children": [
+                {
+                  "textKey": "ExistingCaseStudy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "341:200",
+    "data-name": "Home 04 · Projects — three case-study cards",
+    "className": "design editorial project-index d102"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:201",
+        "data-name": "Rectangle",
+        "className": "root-decoration d103"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:202",
+        "data-font-size": "22px",
+        "className": "d104"
+      },
+      "children": [
+        {
+          "textKey": "SelectedWorkIndustrialDesign"
+        }
+      ]
+    },
+    {
+      "tag": "h2",
+      "attributes": {
+        "data-node-id": "341:203",
+        "data-font-size": "56px",
+        "className": "d105"
+      },
+      "children": [
+        {
+          "textKey": "ThreeProjectsOnePortfolio"
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:204",
+        "data-font-size": "29px",
+        "className": "d106"
+      },
+      "children": [
+        {
+          "textKey": "SelectedWorkTwoWeekProjects"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "341:205",
+        "data-name": "Frame",
+        "className": "layout-row card-row d96"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:206",
+            "data-name": "RailServe — case-study card",
+            "className": "project-card d107"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:207",
+                "data-name": "RailServe — original product presentation",
+                "data-aspect": 1.5,
+                "className": "media-slot d108"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d109",
+                    "imageKey": "imageRailserveOriginalProductPresentation"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "h2",
+              "attributes": {
+                "data-node-id": "341:209",
+                "data-font-size": "38px",
+                "className": "d110"
+              },
+              "children": [
+                {
+                  "textKey": "Railserve"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:210",
+                "data-font-size": "29px",
+                "className": "d111"
+              },
+              "children": [
+                {
+                  "textKey": "ModularRailwayCateringCarrier"
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "/railserve/#section-1",
+                "data-node-id": "341:211",
+                "data-font-size": "23px",
+                "className": "d112"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d113"
+                  },
+                  "children": [
+                    {
+                      "textKey": "OpenRailserveCaseStudy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "/railserve/#section-3",
+                "data-node-id": "341:212",
+                "data-font-size": "21px",
+                "className": "d114"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d113"
+                  },
+                  "children": [
+                    {
+                      "textKey": "SupportingResearch"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:213",
+            "data-name": "Silica Breez — case-study card",
+            "className": "project-card d107"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:214",
+                "data-name": "Silica Breez — original room render",
+                "data-aspect": 1.5,
+                "className": "media-slot d108"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d109",
+                    "imageKey": "imageSilicaBreezOriginalRoomRender"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "h2",
+              "attributes": {
+                "data-node-id": "341:216",
+                "data-font-size": "38px",
+                "className": "d110"
+              },
+              "children": [
+                {
+                  "textKey": "SilicaBreez"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:217",
+                "data-font-size": "29px",
+                "className": "d111"
+              },
+              "children": [
+                {
+                  "textKey": "SculpturalHomeCoolerConcept"
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "/silica-breez/#section-1",
+                "data-node-id": "341:218",
+                "data-font-size": "23px",
+                "className": "d112"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d113"
+                  },
+                  "children": [
+                    {
+                      "textKey": "OpenSilicaBreezCaseStudy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "/silica-breez/#section-3",
+                "data-node-id": "341:219",
+                "data-font-size": "21px",
+                "className": "d114"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d113"
+                  },
+                  "children": [
+                    {
+                      "textKey": "SupportingResearch2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "341:220",
+            "data-name": "Glitch Matrix — case-study card",
+            "className": "project-card d107"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "341:221",
+                "data-name": "Rectangle",
+                "data-aspect": 1.5,
+                "className": "media-slot d108"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "lazy",
+                    "decoding": "async",
+                    "className": "d28",
+                    "imageKey": "imageRectangle2"
+                  },
+                  "children": []
+                }
+              ]
+            },
+            {
+              "tag": "h2",
+              "attributes": {
+                "data-node-id": "341:223",
+                "data-font-size": "38px",
+                "className": "d110"
+              },
+              "children": [
+                {
+                  "textKey": "GlitchMatrix"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "data-node-id": "341:224",
+                "data-font-size": "29px",
+                "className": "d111"
+              },
+              "children": [
+                {
+                  "textKey": "PhysicalDigitalOutdoorPlay"
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "/glitch-matrix/#section-1",
+                "data-node-id": "341:225",
+                "data-font-size": "23px",
+                "className": "d112"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d113"
+                  },
+                  "children": [
+                    {
+                      "textKey": "OpenGlitchMatrixCaseStudy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "a",
+              "attributes": {
+                "href": "/glitch-matrix/#section-3",
+                "data-node-id": "341:226",
+                "data-font-size": "21px",
+                "className": "d114"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "className": "d113"
+                  },
+                  "children": [
+                    {
+                      "textKey": "SupportingResearch3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "attributes": {
+        "data-node-id": "341:227",
+        "data-font-size": "21px",
+        "className": "d115"
+      },
+      "children": [
+        {
+          "textKey": "CmfAndMaintenanceDirectionsAre"
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "373:2",
+        "data-name": "Original portfolio boundary",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "373:3",
+        "data-name": "Original portfolio boundary",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "373:4",
+        "data-name": "Original portfolio boundary",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "373:5",
+        "data-name": "Original portfolio boundary",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "56:168",
+    "data-name": "Home 01 · Cover Page — original graphics",
+    "className": "design artwork d0"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "176:7",
+        "data-name": "Paper_06",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "eager",
+                "decoding": "async",
+                "className": "d3",
+                "imageKey": "imagePaper06"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:19",
+        "className": "root-decoration d4"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:26",
+        "className": "root-decoration d5"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:33",
+        "className": "root-decoration d7"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal2"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:20",
+        "className": "root-decoration d8"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:30",
+        "className": "root-decoration d9"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:31",
+        "className": "root-decoration d10"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:32",
+        "className": "root-decoration d11"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:28",
+        "className": "layout-row root-decoration d12"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d13"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-aspect": 0.49566216058052437,
+                "className": "media-slot d14"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "eager",
+                    "decoding": "async",
+                    "className": "d6",
+                    "imageKey": "imageHome01CoverPageOriginal3"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:34",
+        "className": "layout-row root-decoration d15"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d13"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-aspect": 0.3414568274422904,
+                "className": "media-slot d16"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "eager",
+                    "decoding": "async",
+                    "className": "d6",
+                    "imageKey": "imageHome01CoverPageOriginal4"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:36",
+        "className": "root-decoration d17"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal5"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:42",
+        "className": "root-decoration d18"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal6"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:45",
+        "className": "root-decoration d19"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal7"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:46",
+        "className": "root-decoration d20"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal8"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:47",
+        "className": "root-decoration d21"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal9"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:37",
+        "className": "root-decoration d22"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:38",
+        "className": "root-decoration d23"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:39",
+        "className": "root-decoration d24"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:35",
+        "className": "layout-row root-decoration d25"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d13"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-aspect": 0.901746557935976,
+                "className": "media-slot d26"
+              },
+              "children": [
+                {
+                  "tag": "img",
+                  "attributes": {
+                    "loading": "eager",
+                    "decoding": "async",
+                    "className": "d6",
+                    "imageKey": "imageHome01CoverPageOriginal10"
+                  },
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "178:121",
+        "data-name": "Asset 1 1",
+        "className": "root-decoration d27"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d28",
+            "imageKey": "imageAsset11"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "177:70",
+        "className": "layout-row d29"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d30"
+          },
+          "children": [
+            {
+              "tag": "h1",
+              "attributes": {
+                "data-font-size": "200px",
+                "className": "d31"
+              },
+              "children": [
+                {
+                  "textKey": "Portfolio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "189:26",
+        "className": "root-decoration d32"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal11"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "189:25",
+        "className": "root-decoration d33"
+      },
+      "children": [
+        {
+          "tag": "img",
+          "attributes": {
+            "loading": "eager",
+            "decoding": "async",
+            "className": "d6",
+            "imageKey": "imageHome01CoverPageOriginal12"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "180:135",
+        "data-font-size": "44px",
+        "className": "d34"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d35"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialProduct"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "className": "d36"
+          },
+          "children": [
+            {
+              "textKey": "Design"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

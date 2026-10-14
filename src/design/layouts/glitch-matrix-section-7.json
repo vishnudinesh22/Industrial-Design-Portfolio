@@ -1,0 +1,1606 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "228:336",
+    "data-name": "Glitch Matrix 07 · Glitch Matrix / Interface concept",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:2",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:3",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:4",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:5",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:6",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "358:7",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "358:8",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "358:9",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "GlitchMatrixInterfaceConcept"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "358:10",
+            "data-font-size": "27px",
+            "className": "d143"
+          },
+          "children": [
+            {
+              "textKey": "GlitchHunterGameUiVisual"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "358:11",
+            "data-name": "Frame",
+            "className": "layout-row d158"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "358:12",
+                "data-name": "Frame",
+                "className": "d260"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "className": "mockup-wrap d261"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "358:13",
+                        "data-name": "Html → Body",
+                        "data-aspect": 0.69583387701083,
+                        "className": "mockup d262"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "358:14",
+                            "data-name": "Fullscreen Decorative Image for Mood",
+                            "className": "d263"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:15",
+                                "data-name": "digital green circuit board data streams",
+                                "className": "d264"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "className": "d237"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "img",
+                                      "attributes": {
+                                        "loading": "lazy",
+                                        "decoding": "async",
+                                        "className": "d265",
+                                        "imageKey": "imageDigitalGreenCircuitBoardData"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "358:16",
+                            "data-name": "Main Content Canvas",
+                            "className": "d266"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:17",
+                                "data-name": "Background Graphic Elements",
+                                "className": "layout-row d267"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:18",
+                                    "data-name": "Border",
+                                    "className": "layout-row d268"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:19",
+                                        "data-name": "Border",
+                                        "className": "d269"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:20",
+                                "data-name": "Title Section",
+                                "className": "d270"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:21",
+                                    "data-name": "Container",
+                                    "className": "layout-row d271"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:22",
+                                        "data-name": "Heading 1",
+                                        "className": "d272"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:23",
+                                            "data-font-size": "52.424px",
+                                            "className": "d273"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d274"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "Glitch"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d275"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "Hunter"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:24",
+                                        "data-name": "Glitch decorative artifacts",
+                                        "className": "d276"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:25",
+                                            "data-font-size": "6.99px",
+                                            "className": "d277"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d278"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "SysInit001"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:26",
+                                        "data-name": "Container",
+                                        "className": "d279"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:27",
+                                            "data-font-size": "6.99px",
+                                            "className": "d280"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d278"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "ErrDetected"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:28",
+                                    "data-name": "Terminal Key Group",
+                                    "className": "layout-row d281"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:29",
+                                        "data-name": "PLAY Button",
+                                        "className": "d282"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:30",
+                                            "data-font-size": "6.99px",
+                                            "className": "d283"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d278"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "Play"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:31",
+                                        "data-name": "INSTRUCTIONS Button",
+                                        "className": "d284"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:32",
+                                            "data-font-size": "6.99px",
+                                            "className": "d285"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d278"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "Instructions"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "358:33",
+                            "data-name": "Header - Top Navigation Anchor",
+                            "className": "d286"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:34",
+                                "data-name": "Container",
+                                "className": "d287"
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:35",
+                                "data-name": "Container",
+                                "className": "d288"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:36",
+                                    "data-font-size": "6.116px",
+                                    "className": "d289"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "attributes": {
+                                        "className": "d290"
+                                      },
+                                      "children": [
+                                        {
+                                          "textKey": "GlitchHunterV10"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "358:37",
+                            "data-name": "Scanning Overlay",
+                            "className": "d291"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "aria-hidden": "true",
+                                "className": "d38"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "className": "d292"
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "loading": "lazy",
+                                    "decoding": "async",
+                                    "className": "d40",
+                                    "imageKey": "imageScanningOverlay"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "358:38",
+                    "data-font-size": "25px",
+                    "className": "d293"
+                  },
+                  "children": [
+                    {
+                      "textKey": "StartScreenKeepThePrimary"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "358:39",
+                "data-name": "Frame",
+                "className": "d260"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "className": "mockup-wrap d294"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "358:40",
+                        "data-name": "Html → Body",
+                        "data-aspect": 0.6956523359609399,
+                        "className": "mockup d295"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "358:41",
+                            "data-name": "Main",
+                            "className": "d296"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:42",
+                                "data-name": "Background Artifacts",
+                                "className": "d297"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "aria-hidden": "true",
+                                    "className": "d38"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "className": "d292"
+                                      },
+                                      "children": []
+                                    },
+                                    {
+                                      "tag": "img",
+                                      "attributes": {
+                                        "loading": "lazy",
+                                        "decoding": "async",
+                                        "className": "d40",
+                                        "imageKey": "imageBackgroundArtifacts"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:43",
+                                "data-name": "Role Selection Content",
+                                "className": "d298"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:44",
+                                    "data-name": "Hero Header Module",
+                                    "className": "d299"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:45",
+                                        "data-name": "Overlay+Border",
+                                        "className": "d300"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:46",
+                                            "data-name": "Container",
+                                            "className": "layout-row d301"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:47",
+                                                "data-name": "Background",
+                                                "className": "d302"
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:48",
+                                                "data-name": "Background",
+                                                "className": "d303"
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:49",
+                                            "data-font-size": "11.817px",
+                                            "className": "d304"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d305"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "ConnectionEstablishedSystemReady"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:50",
+                                        "data-name": "Heading 1",
+                                        "className": "d306"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:51",
+                                            "data-font-size": "23.633px",
+                                            "className": "d307"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d308"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "AreYouReadyToBecome"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d309"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "span",
+                                                  "attributes": {
+                                                    "className": "d310"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "The"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "attributes": {
+                                                    "className": "d311"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "Architect"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "attributes": {
+                                                    "className": "d310"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "OrA"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": ""
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "span",
+                                                  "attributes": {
+                                                    "className": "d312"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "Sweeper"
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "span",
+                                                  "attributes": {
+                                                    "className": "d310"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "Spacer"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:52",
+                                        "data-name": "Container",
+                                        "className": "d313"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:53",
+                                            "data-font-size": "11.817px",
+                                            "className": "d314"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d315"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "NeuralSyncDetectedSelectYour"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d315"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "GridAwaitsItsMasterOr"
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d305"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "ChooseWithPrecision"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:54",
+                                    "data-name": "Role Grid:margin",
+                                    "className": "d316"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:55",
+                                "data-name": "Architect Card",
+                                "className": "d317"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:56",
+                                    "data-name": "Margin",
+                                    "className": "d318"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:57",
+                                        "data-name": "Container",
+                                        "className": "d319"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:58",
+                                            "data-name": "Paragraph",
+                                            "className": "d320"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:59",
+                                                "data-font-size": "7.754px",
+                                                "className": "d321"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "p",
+                                                  "attributes": {
+                                                    "className": "d322"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "Class01"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:60",
+                                                "data-font-size": "11.631px",
+                                                "className": "d323"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "p",
+                                                  "attributes": {
+                                                    "className": "d324"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "Architect2"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:61",
+                                            "data-name": "Container",
+                                            "className": "layout-row d325"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:62",
+                                                "data-name": "Background",
+                                                "className": "d326"
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:63",
+                                                "data-name": "Overlay",
+                                                "className": "d327"
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:64",
+                                                "data-name": "Overlay",
+                                                "className": "d328"
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:65",
+                                    "data-name": "Button:margin",
+                                    "className": "d329"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:66",
+                                        "data-name": "Button",
+                                        "className": "d330"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:67",
+                                            "data-font-size": "8.723px",
+                                            "className": "d331"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d332"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "IMReady"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:68",
+                                    "className": "layout-row d333"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "className": "d334"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-name": "Overlay",
+                                            "className": "d335"
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:69",
+                                    "data-name": "Margin",
+                                    "className": "d336"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:70",
+                                        "data-name": "Background+Border",
+                                        "className": "d337"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:71",
+                                            "data-name": "AB6AXuAK1QZs3IE34oyFfGPVoPbmV_NbzW3jWW4m0NmvFB3cjSm_wc8nEfAOCP_lWj4wW_-KT5M2xj2G98L-N3rVTaYsUhHgeNaPhBNXecVaLCcnBFVwqmN05gsXHj8u9OUv9SxmkLDnm3-A7XfLk5I-Zq4coKROy-_uS1MfRzddUZYxALCMgiY02QgFOsLRwXlXYyL1Z5f0W2H41oNmDar6FeZG5dQ_4OdJ5trBRS49dPjlPrfsqyT7voPfqb_IiqeR6liKDv6rIlcjrqmk",
+                                            "className": "d338"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "aria-hidden": "true",
+                                                "className": "d339"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "attributes": {
+                                                    "className": "d340"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "img",
+                                                      "attributes": {
+                                                        "loading": "lazy",
+                                                        "decoding": "async",
+                                                        "className": "d341",
+                                                        "imageKey": "imageAb6axuak1qzs3ie34oyffgpvopbmvNbzw3jww4m0nmvfb3cjsmWc8nefaocpLwj4wwKt5m2xj2g98l"
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "attributes": {
+                                                    "className": "d342"
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:72",
+                                            "data-name": "Gradient",
+                                            "className": "d343"
+                                          },
+                                          "children": []
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:73",
+                                            "data-name": "Container",
+                                            "className": "d344"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "className": "d345"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "attributes": {
+                                                    "data-node-id": "358:74",
+                                                    "data-font-size": "4.846px",
+                                                    "className": "d346"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "p",
+                                                      "attributes": {
+                                                        "className": "d347"
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "textKey": "FragIdArch992Sync"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:75",
+                                    "data-font-size": "7.754px",
+                                    "className": "d348"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "attributes": {
+                                        "className": "d322"
+                                      },
+                                      "children": [
+                                        {
+                                          "textKey": "DeployCoreLogicGrenades"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:76",
+                                    "data-font-size": "7.754px",
+                                    "className": "d349"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "attributes": {
+                                        "className": "d322"
+                                      },
+                                      "children": [
+                                        {
+                                          "textKey": "DesignGridSubstructures"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:77",
+                                "data-name": "Sweeper Card",
+                                "className": "d350"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:78",
+                                    "data-name": "Margin",
+                                    "className": "d318"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:79",
+                                        "data-name": "Container",
+                                        "className": "layout-row d351"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:80",
+                                            "data-name": "Paragraph",
+                                            "className": "d352"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:81",
+                                                "data-font-size": "7.754px",
+                                                "className": "d353"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "p",
+                                                  "attributes": {
+                                                    "className": "d322"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "Class02"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:82",
+                                                "data-font-size": "11.631px",
+                                                "className": "d354"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "p",
+                                                  "attributes": {
+                                                    "className": "d324"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "textKey": "Sweeper2"
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:83",
+                                            "data-name": "Container",
+                                            "className": "layout-row d355"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:84",
+                                                "data-name": "Overlay",
+                                                "className": "d328"
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:85",
+                                                "data-name": "Overlay",
+                                                "className": "d327"
+                                              },
+                                              "children": []
+                                            },
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "data-node-id": "358:86",
+                                                "data-name": "Background",
+                                                "className": "d326"
+                                              },
+                                              "children": []
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:87",
+                                    "data-name": "Button:margin",
+                                    "className": "d329"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:88",
+                                        "data-name": "Button",
+                                        "className": "d330"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:89",
+                                            "data-font-size": "8.723px",
+                                            "className": "d356"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "p",
+                                              "attributes": {
+                                                "className": "d332"
+                                              },
+                                              "children": [
+                                                {
+                                                  "textKey": "TheyReReady"
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:90",
+                                    "className": "layout-row d333"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "className": "d334"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-name": "Overlay",
+                                            "className": "d335"
+                                          },
+                                          "children": []
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:91",
+                                    "data-name": "Margin",
+                                    "className": "d336"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "358:92",
+                                        "data-name": "Background+Border",
+                                        "className": "d337"
+                                      },
+                                      "children": [
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:93",
+                                            "data-name": "AB6AXuAR6R2L2WzKwbgI0ztR4Ixfwlp3hLNgtvyA0nTSll0w9y3j9Vrl-HQHNinjj_6PJJJlsNH7VS-va_hxKw8M1yNjc0XS9yRlgQ9pzCrxXbQnGFH7RegDgb1o3F4rdacxaJqjm0ik9OrjcNTFCZoyvMzDwFfKSjQAICOQ9RrjRAj72-2Zf1VqqZzRHTdxjbuVOZI_OnuY8-ye1Z_T-cM42Wic2RfKZxNqSvasGWwwBAgeCn80heyFn8mX7DRIcd13eVBizh7LVUR6LMKh",
+                                            "className": "d338"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "aria-hidden": "true",
+                                                "className": "d339"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "attributes": {
+                                                    "className": "d340"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "img",
+                                                      "attributes": {
+                                                        "loading": "lazy",
+                                                        "decoding": "async",
+                                                        "className": "d341",
+                                                        "imageKey": "imageAb6axuar6r2l2wzkwbgi0ztr4ixfwlp3hlngtvya0ntsll0w9y3j9vrlHqhninjj6pjjjlsnh7vsVaHxkw8m1ynjc0xs9yrlgq9pzcrxxbqngfh7regdgb1o3f4rdacxajqjm0ik9orjcntfczoyvmzdwffksjqaicoq9rrjraj72"
+                                                      },
+                                                      "children": []
+                                                    }
+                                                  ]
+                                                },
+                                                {
+                                                  "tag": "div",
+                                                  "attributes": {
+                                                    "className": "d342"
+                                                  },
+                                                  "children": []
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:94",
+                                            "data-name": "Gradient",
+                                            "className": "d343"
+                                          },
+                                          "children": []
+                                        },
+                                        {
+                                          "tag": "div",
+                                          "attributes": {
+                                            "data-node-id": "358:95",
+                                            "data-name": "Container",
+                                            "className": "d344"
+                                          },
+                                          "children": [
+                                            {
+                                              "tag": "div",
+                                              "attributes": {
+                                                "className": "d345"
+                                              },
+                                              "children": [
+                                                {
+                                                  "tag": "div",
+                                                  "attributes": {
+                                                    "data-node-id": "358:96",
+                                                    "data-font-size": "4.846px",
+                                                    "className": "d357"
+                                                  },
+                                                  "children": [
+                                                    {
+                                                      "tag": "p",
+                                                      "attributes": {
+                                                        "className": "d347"
+                                                      },
+                                                      "children": [
+                                                        {
+                                                          "textKey": "FragIdSweep004Sync"
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:97",
+                                    "data-font-size": "7.754px",
+                                    "className": "d358"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "attributes": {
+                                        "className": "d322"
+                                      },
+                                      "children": [
+                                        {
+                                          "textKey": "PurgeSystemCorruption"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "358:98",
+                                    "data-font-size": "7.754px",
+                                    "className": "d359"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "p",
+                                      "attributes": {
+                                        "className": "d322"
+                                      },
+                                      "children": [
+                                        {
+                                          "textKey": "ExecuteLowLevelDiagnostics"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "358:99",
+                            "data-name": "Header - TopAppBar from JSON",
+                            "className": "layout-row d360"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "358:100",
+                                "data-font-size": "10.34px",
+                                "className": "d361"
+                              },
+                              "children": [
+                                {
+                                  "tag": "p",
+                                  "attributes": {
+                                    "className": "d362"
+                                  },
+                                  "children": [
+                                    {
+                                      "textKey": "GlitchHunterV102"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "358:101",
+                    "data-font-size": "25px",
+                    "className": "d293"
+                  },
+                  "children": [
+                    {
+                      "textKey": "RoleSelectionTestWhetherPlayers"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "358:102",
+            "data-font-size": "29px",
+            "className": "d229"
+          },
+          "children": [
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d79"
+              },
+              "children": [
+                {
+                  "textKey": "NextSimplerOnboardingClearRoles"
+                }
+              ]
+            },
+            {
+              "tag": "p",
+              "attributes": {
+                "className": "d80"
+              },
+              "children": [
+                {
+                  "textKey": "TestOutdoorLegibilityAndComprehension"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

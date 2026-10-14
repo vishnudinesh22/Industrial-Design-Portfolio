@@ -1,0 +1,462 @@
+{
+  "tag": "div",
+  "attributes": {
+    "data-node-id": "204:149",
+    "data-name": "Silica Breez 04 · Silica Breez / Form alternatives",
+    "className": "design editorial d139"
+  },
+  "children": [
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:22",
+        "data-name": "Rectangle",
+        "className": "root-decoration d1"
+      },
+      "children": [
+        {
+          "tag": "div",
+          "attributes": {
+            "className": "d2"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attributes": {
+                "loading": "lazy",
+                "decoding": "async",
+                "className": "d43",
+                "imageKey": "imageRectangle"
+              },
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:23",
+        "data-name": "Rectangle",
+        "className": "root-decoration d88"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:24",
+        "data-name": "Rectangle",
+        "className": "root-decoration d89"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:25",
+        "data-name": "Rectangle",
+        "className": "root-decoration d90"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:26",
+        "data-name": "Rectangle",
+        "className": "root-decoration d91"
+      },
+      "children": []
+    },
+    {
+      "tag": "div",
+      "attributes": {
+        "data-node-id": "360:27",
+        "data-name": "Editorial content",
+        "className": "content-container d140"
+      },
+      "children": [
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "360:28",
+            "data-font-size": "22px",
+            "className": "d141"
+          },
+          "children": [
+            {
+              "textKey": "IndustrialDesign"
+            }
+          ]
+        },
+        {
+          "tag": "h2",
+          "attributes": {
+            "data-node-id": "360:29",
+            "data-font-size": "54px",
+            "className": "d142"
+          },
+          "children": [
+            {
+              "textKey": "SilicaBreezFormAlternatives"
+            }
+          ]
+        },
+        {
+          "tag": "p",
+          "attributes": {
+            "data-node-id": "360:30",
+            "data-font-size": "27px",
+            "className": "d143"
+          },
+          "children": [
+            {
+              "textKey": "ProjectFormExploration"
+            }
+          ]
+        },
+        {
+          "tag": "div",
+          "attributes": {
+            "data-node-id": "360:31",
+            "data-name": "Frame",
+            "className": "layout-row d158"
+          },
+          "children": [
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "360:32",
+                "data-name": "Frame",
+                "className": "d176"
+              },
+              "children": [
+                {
+                  "tag": "div",
+                  "attributes": {
+                    "data-node-id": "360:33",
+                    "className": "d207"
+                  },
+                  "children": [
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "360:34",
+                        "className": "d208"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "360:35",
+                            "className": "d208"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "data-node-id": "360:36",
+                                "className": "d208"
+                              },
+                              "children": [
+                                {
+                                  "tag": "div",
+                                  "attributes": {
+                                    "data-node-id": "360:37",
+                                    "className": "d208"
+                                  },
+                                  "children": [
+                                    {
+                                      "tag": "div",
+                                      "attributes": {
+                                        "data-node-id": "360:38",
+                                        "className": "d209"
+                                      },
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "p",
+                              "attributes": {
+                                "data-node-id": "360:39",
+                                "data-font-size": "35.2px",
+                                "className": "d210"
+                              },
+                              "children": [
+                                {
+                                  "textKey": "Ideation"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "div",
+                      "attributes": {
+                        "data-node-id": "360:40",
+                        "className": "d211"
+                      },
+                      "children": [
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "360:41",
+                            "data-name": "ADV PROJECT 2026.pdf - Page 8 of 19",
+                            "data-aspect": 0.7274119448698316,
+                            "className": "media-slot d212"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "className": "d213"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "loading": "lazy",
+                                    "decoding": "async",
+                                    "className": "d214",
+                                    "imageKey": "imageAdvProject2026PdfPage"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "360:42",
+                            "data-name": "ADV PROJECT 2026.pdf - Page 8 of 20",
+                            "data-aspect": 1.330985915492958,
+                            "className": "media-slot d215"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "className": "d213"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "loading": "lazy",
+                                    "decoding": "async",
+                                    "className": "d216",
+                                    "imageKey": "imageAdvProject2026PdfPage2"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "360:43",
+                            "data-name": "WhatsApp Image 2026-04-09 at 11.11.04 1",
+                            "data-aspect": 0.7369942196531791,
+                            "className": "media-slot d217"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "className": "d213"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "loading": "lazy",
+                                    "decoding": "async",
+                                    "className": "d218",
+                                    "imageKey": "imageWhatsappImage20260409"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "360:44",
+                            "data-name": "ADV PROJECT 2026.pdf - Page 8 of 22",
+                            "data-aspect": 0.677298311444653,
+                            "className": "media-slot d219"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "className": "d213"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "loading": "lazy",
+                                    "decoding": "async",
+                                    "className": "d220",
+                                    "imageKey": "imageAdvProject2026PdfPage3"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "div",
+                          "attributes": {
+                            "data-node-id": "360:45",
+                            "className": "d221"
+                          },
+                          "children": [
+                            {
+                              "tag": "div",
+                              "attributes": {
+                                "className": "d222"
+                              },
+                              "children": [
+                                {
+                                  "tag": "img",
+                                  "attributes": {
+                                    "loading": "lazy",
+                                    "decoding": "async",
+                                    "className": "d124",
+                                    "imageKey": "imageFrame"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:46",
+                    "data-font-size": "22px",
+                    "className": "d179"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ExistingProjectExplorationConceptMaterial"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "div",
+              "attributes": {
+                "data-node-id": "360:47",
+                "data-name": "Frame",
+                "className": "d180"
+              },
+              "children": [
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:48",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "CurrentProposal"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:49",
+                    "data-font-size": "28px",
+                    "className": "d223"
+                  },
+                  "children": [
+                    {
+                      "textKey": "ASculpturalPorousOuterShell"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:50",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "RationaleToEvaluate"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:51",
+                    "data-font-size": "29px",
+                    "className": "d182"
+                  },
+                  "children": [
+                    {
+                      "textKey": "CompareOpeningsAndProportionsFor"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:52",
+                    "data-font-size": "31px",
+                    "className": "d181"
+                  },
+                  "children": [
+                    {
+                      "textKey": "DecisionCriteria"
+                    }
+                  ]
+                },
+                {
+                  "tag": "p",
+                  "attributes": {
+                    "data-node-id": "360:53",
+                    "data-font-size": "28px",
+                    "className": "d223"
+                  },
+                  "children": [
+                    {
+                      "textKey": "AirflowNoiseCleaningEnclosureSplits"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
